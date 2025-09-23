@@ -1,0 +1,9 @@
+numpy: 2.0.1
+pandas: 2.3.2
+matplotlib: 3.10.6
+scikit-learn: 1.7.2
+opencv: 4.12.0
+nltk: 3.9.1
+torch: 2.5.1
+tensorflow: 2.20.0
+Semua paket OK!
