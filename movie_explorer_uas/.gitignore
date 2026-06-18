@@ -1,0 +1,14 @@
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+*.iml
+.idea/
+.vscode/
+android/.gradle/
+android/local.properties
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+macos/Flutter/Flutter-Generated.xcconfig
